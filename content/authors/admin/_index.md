@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Economist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: OECD
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include financial regulation, international macroeconomics, political economy.
 
 interests:
 - Artificial Intelligence
