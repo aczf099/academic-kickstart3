@@ -21,18 +21,18 @@ organizations:
 bio: My research interests include financial regulation, international macroeconomics, political economy.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Financial regulation & Financial stability
+- International macroeconomics
+- Political economy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: Master in International Political Economy
+    institution: London School of Economics
+    year: 2015
+  - course: Master in International Economic Policy
+    institution: Sciences Po
+    year: 2013
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
