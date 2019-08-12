@@ -70,6 +70,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello,
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am an Economist at the OECD in Paris since 2016, where I work in the International Finance Unit in the Investment Division. Before 2016, I worked for the risk analysis team at the European Systemic Risk Board in Frankfurt.
+
+I have expertise in:
+- financial regulation, systemic risk, macroprudential policy
+- international finance, capital flow management, FX policies
+- financial services - market access and cross border provision
