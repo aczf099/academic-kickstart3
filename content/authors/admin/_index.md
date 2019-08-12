@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: Master in International Political Economy
+  - course: Dual Master degree - International Political Economy
     institution: London School of Economics
     year: 2015
-  - course: Master in International Economic Policy
-    institution: Sciences Po
-    year: 2013
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Dual Master degree -  International Economic Policy
+    institution: Sciences Po, Paris
+    year: 2015
+  - course: Exchange program
+    institution: Columbia University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
