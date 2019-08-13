@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/etienne_lepers
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/etienne-lepers-36754758
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/ple960.html
