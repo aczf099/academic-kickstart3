@@ -11,5 +11,5 @@ comments: false  # Show comments?
 
 ---
 
-Quelques photos, à mes heures perdues ...
+Quelques photos, à mes heures "perdues" 
 url: https://urgeofelsewhere.carbonmade.com/
