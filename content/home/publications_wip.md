@@ -1,5 +1,6 @@
+---
 
-title: Work in progress
+title: "Work in progress"
 summary: ""
 date: "2018-06-28T00:00:00Z"
 
@@ -8,10 +9,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 
 "Manipulating Credit: How Political Cycles drive Credit Booms"
