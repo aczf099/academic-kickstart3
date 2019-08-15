@@ -2,7 +2,7 @@
 title: "Home, safe home: cross-country monitoring framework for vulnerabilities in the residential real estate sector"
 date: 2017-01-01
 publishDate: 2019-08-13T07:03:09.379486Z
-author = {Bengtsson, Elias and Grothe, Magdalena and Lepers, Etienne},
+author = ["Elias Bengtsson", "Magdalena Grothe", "Etienne Lepers"] 
 publication_types: ["3"]
 abstract: ""
 featured: false
