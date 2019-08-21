@@ -1,6 +1,6 @@
 ---
 
-title: "Extra"
+title: "Photography"
 summary: ""
 date: "2018-06-28T00:00:00Z"
 
@@ -11,6 +11,5 @@ comments: false  # Show comments?
 weight: 150
 ---
 
-Quelques photos, à mes heures "perdues" 
-
+Photography:
 https://urgeofelsewhere.carbonmade.com/
