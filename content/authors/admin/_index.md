@@ -18,7 +18,7 @@ organizations:
   url: "https://www.oecd.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include financial regulation, international macroeconomics, political economy.
+bio: My research interests include financial regulation, international macroeconomics, and political economy.
 
 interests:
 - Financial regulation & Financial stability
@@ -82,9 +82,9 @@ user_groups:
 
 Hello,
 
-I am an Economist at the OECD in Paris since 2016, where I work in the International Finance Unit in the Investment Division. Before 2016, I worked for the risk analysis team at the European Systemic Risk Board in Frankfurt.
+I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division. Before 2016, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt.
 
 I have expertise in:
-- financial regulation, systemic risk, macroprudential policy
-- international finance, capital flow management, FX policies
-- financial services - market access and cross border provision
+- Financial regulation, systemic risk, macroprudential policy
+- International finance, capital flow management, FX policies
+- Financial services - market access and cross-border provision
