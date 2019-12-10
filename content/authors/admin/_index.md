@@ -16,6 +16,8 @@ role: Economist
 organizations:
 - name: OECD
   url: "https://www.oecd.org/"
+- name: City, University of London
+  url: "https://www.city.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial regulation, international macroeconomics, and political economy.
@@ -82,7 +84,8 @@ user_groups:
 
 Hello!
 
-I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division. Before 2016, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt.
+I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division.  
+Before 2016, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt.
 
 I have expertise in:  
 - Financial regulation, systemic risk, macroprudential policy  
