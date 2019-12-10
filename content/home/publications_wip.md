@@ -11,7 +11,7 @@ comments: false  # Show comments?
 weight: 140
 ---
 
-"Manipulating Credit: How Political Cycles drive Credit Booms"
+"Manipulating Credit: How Political Cycles drive Credit Booms"  
 Presented at 2019 Cesifo Workshop on Political Economy (Dresden), 2019 Economics and Politics Workshop (Brussels)
-
+  
 "Capital flow management policies and cross-border spillovers" (with F.Gori & C.Mehigan)
