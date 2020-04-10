@@ -11,3 +11,4 @@ url_pdf: "https://www.sciencedirect.com/science/article/pii/S0275531918309462?dg
 doi: "10.1016/J.RIBAF.2019.101068"
 ---
 
+Presented at the 5th Bordeaux Workshop in International Economics and Finance (2017), and at the First Behavioural Macroeconomics Workshop,  University of Bamberg (2018)
