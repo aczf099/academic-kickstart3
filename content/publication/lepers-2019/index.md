@@ -11,4 +11,4 @@ url_pdf: "https://dx.doi.org/10.1787/9188f06a-en"
 doi: "10.1787/9188f06a-en"
 ---
 
-"Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018)"
+Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018)
