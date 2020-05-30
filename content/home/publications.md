@@ -1,67 +1,26 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+---
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+title: "Publications"
+summary: ""
+date: "2018-06-28T00:00:00Z"
 
-title = "Publications"
-subtitle = ""
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+weight: 90
+---
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+Etienne Lepers, Antonio Sánchez Serrano (2020). [Decomposing financial (in)stability in emerging economies](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055). Research in International Business and Finance.
+Also published as [ESRB Working Paper No 39](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf), Feb 2017
+Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Behavioural Macroeconomics Workshop (University of Bamberg)
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+Elias Bengtsson, Magdalena Grothe, Etienne Lepers (2020). [Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub). Journal of Banking and Finance. Vol.112
+Also published as [ECB Working Paper No 2096](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf), Aug 2017
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = "2"
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 4
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+Etienne Lepers, Caroline Mehigan (2019). [The broad policy toolkit for financial stability: Foundations, fences, and fire doors](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en). OECD Working Paper on International Investment, 2019/02
+Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018)
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+Etienne Lepers (2018). [The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20). New Political Economy, Vol.23, Issue 1
+Awarded the LSE Susan Strange Prize
+
