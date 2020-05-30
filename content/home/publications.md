@@ -12,9 +12,7 @@ weight: 90
 ---
 
 Etienne Lepers, Antonio Sánchez Serrano (2020). [Decomposing financial (in)stability in emerging economies](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055). *Research in International Business and Finance.*
-
 Also published as [ESRB Working Paper No 39](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf), Feb 2017
-
 Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Behavioural Macroeconomics Workshop (University of Bamberg)
 
 Elias Bengtsson, Magdalena Grothe, Etienne Lepers (2020). [Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub). *Journal of Banking and Finance*. Vol.112
