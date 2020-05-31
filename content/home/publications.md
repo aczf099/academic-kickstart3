@@ -11,16 +11,16 @@ comments: false  # Show comments?
 weight: 90
 ---
 
- "Decomposing financial (in)stability in emerging economies", with Antonio Sánchez Serrano, [*Research in International Business and Finance.*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055), 2020  
+ **Decomposing financial (in)stability in emerging economies**, with Antonio Sánchez Serrano, [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055), 2020  
     - Also published as [ESRB Working Paper No 39](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf), Feb 2017  
-    - Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Behavioural Macroeconomics Workshop (University of Bamberg)  
+    - Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Bamberg Behavioural Macroeconomics Workshop  
 
-"Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector", with Elias Bengtsson and Magdalena Grothe, [*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub), 2020, Vol.112  
+**Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector**, with Elias Bengtsson and Magdalena Grothe, [*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub), 2020, Vol.112  
     - Also published as [ECB Working Paper No 2096](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf), Aug 2017
 
-"The broad policy toolkit for financial stability: Foundations, fences, and fire doors", with Caroline Mehigan, [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en)  
+**The broad policy toolkit for financial stability: Foundations, fences, and fire doors**, with Caroline Mehigan, [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en)  
     - Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018)
 
-"The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour", [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20), 2017, Vol.23, Issue 1  
+**The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**, [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20), 2017, Vol.23, Issue 1  
     - Awarded the LSE Susan Strange Prize
 
