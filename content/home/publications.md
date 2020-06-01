@@ -11,7 +11,7 @@ comments: false  # Show comments?
 weight: 90
 ---
 
- **Decomposing financial (in)stability in emerging economies**, with Antonio Sánchez Serrano (ESRB), [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)  
+ **Decomposing financial (in)stability in emerging economies**, with Antonio Sánchez Serrano (ESRB), [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020).  
     - Also published as [ESRB Working Paper No 39](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
     - Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Bamberg Behavioural Macroeconomics Workshop  
 
