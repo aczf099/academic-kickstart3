@@ -10,6 +10,11 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 weight: 120
 ---
+
+***Macroprudential policy***
+
+**Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**, with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
+    
 ***Capital Flows***
 
 **Capital Flow Deflection under the Magnifying Glass**, with Filippo Gori (ECB) & Caroline Mehigan (Bank of Ireland)  
