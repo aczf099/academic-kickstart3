@@ -12,8 +12,8 @@ weight: 130
 
 ---
 
-OECD (2019), Reserve Requirements:Current Use, Motivations and Practical Considerations
-https://www.oecd.org/investment/investment-policy/Reserve-Requirements-Current-Use-Motivations-and-Practical-Considerations-technical-note.pdf
+OECD (2020), [COVID-19 and Global Capital Flows](http://www.oecd.org/investment/COVID19-and-global-capital-flows-OECD-Report-G20.pdf), Report to the G20 International Financial Architecture Working Group
 
-ESRB (2016), Vulnerabilities in the EU residential real estate sector
-https://www.esrb.europa.eu/pub/pdf/reports/161128_vulnerabilities_eu_residential_real_estate_sector.en.pdf 
+OECD (2019), [Reserve Requirements:Current Use, Motivations and Practical Considerations](https://www.oecd.org/investment/investment-policy/Reserve-Requirements-Current-Use-Motivations-and-Practical-Considerations-technical-note.pdf)
+
+ESRB (2016), [Vulnerabilities in the EU residential real estate sector](https://www.esrb.europa.eu/pub/pdf/reports/161128_vulnerabilities_eu_residential_real_estate_sector.en.pdf)
