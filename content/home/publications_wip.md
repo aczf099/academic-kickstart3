@@ -27,4 +27,4 @@ weight: 120
     - Presented at 2019 CESifo Workshop on Political Economy (Dresden), 2019 Economics and Politics Workshop (Brussels)
  
 **Fiscal Policy as Credit Policy: A New Perspective on the Welfare State vs. Market Trade-off**  
-    - To be presented at 2020 SASE Annual Meeting (Amsterdam)
+    - Presented at 2020 SASE Annual Meeting
