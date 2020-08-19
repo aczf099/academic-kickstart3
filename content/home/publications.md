@@ -12,6 +12,7 @@ weight: 90
 ---
 
  **Sectoral Capital Flows: Covariates, Comovements, and Controls**, with Rogelio Mercado (SEACEN), [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
+    - Presented at Asian Development Bank RCI-POD Webinar (2020) 
 
  **Decomposing financial (in)stability in emerging economies**, with Antonio Sánchez Serrano (ESRB), [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)  
     - Also published as [*ESRB Working Paper*](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
