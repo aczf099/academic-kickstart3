@@ -14,12 +14,6 @@ weight: 120
 ***Macroprudential policy***
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**, with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
-    
-***Capital Flows***
-
-**Capital Flow Deflection under the Magnifying Glass**, with Filippo Gori (ECB) & Caroline Mehigan (Bank of Ireland)  
-    - Presented at 2019 CEREC Annual Conference on Financial Integration (Brussels), and OECD Economics Department Seminar  
-    - To be presented at 2020 CEBRA Annual Conference (London)
 
 ***Political economy of finance***
 
