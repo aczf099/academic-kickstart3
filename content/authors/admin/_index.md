@@ -82,12 +82,8 @@ user_groups:
 - Visitors
 ---
 
-Hello!
+Welcome !
 
-I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division.  
-Before 2016, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt.
+I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division on capital flows and capital controls. Before that, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt on systemic risk measurement and macroprudential policy effectiveness.
 
-I have expertise in:  
-- Financial regulation, systemic risk, macroprudential policy  
-- International finance, capital flow management, FX policies  
-- Financial services - market access and cross-border provision  
+On this website you can find my research publications and work in progress, as well as some photography.
