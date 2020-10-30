@@ -16,7 +16,7 @@ weight: 90
  **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French) [*Revue d'Economie Financière*](https://www.aef.asso.fr/publications/revue-d-economie-financiere) (2020)  
 
  **Capital Flow Deflection under the Magnifying Glass**, with Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland), [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
-<font size="2">    - Presented at Central Bank Research Association Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the 2019 CEREC Annual Conference on Financial Integration (2019) </font>
+<font size="3">    - Presented at Central Bank Research Association Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the 2019 CEREC Annual Conference on Financial Integration (2019) </font>
 
  **Sectoral Capital Flows: Covariates, Comovements, and Controls**, with Rogelio Mercado (SEACEN), [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
     - Presented at Asian Development Bank RCI-POD Webinar (2020) 
