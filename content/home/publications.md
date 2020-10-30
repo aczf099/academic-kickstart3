@@ -21,6 +21,7 @@ weight: 90
  **Sectoral Capital Flows: Covariates, Comovements, and Controls**, with Rogelio Mercado (SEACEN), [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>
 
+
 *Financial Stability*
 
  **Decomposing financial (in)stability in emerging economies**, with Antonio Sánchez Serrano (ESRB), [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)  
@@ -32,6 +33,7 @@ weight: 90
 
 **The broad policy toolkit for financial stability: Foundations, Fences, and Fire doors**, with Caroline Mehigan (Bank of Ireland), [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en) (2019)   
  <font size="2">   - Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018) </font>
+
 
 *Monetary Policy*
 
