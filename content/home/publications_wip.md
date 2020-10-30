@@ -18,7 +18,7 @@ weight: 120
 ***Political economy of finance***
 
 **Manipulating Credit: How Political Cycles drive Credit Booms**  
-    - Presented at 2019 CESifo Workshop on Political Economy (Dresden), 2019 Economics and Politics Workshop (Brussels)
+<font size="2">   - Presented at 2019 CESifo Workshop on Political Economy (Dresden), 2019 Economics and Politics Workshop (Brussels) </font> 
  
 **Fiscal Policy as Credit Policy: A New Perspective on the Welfare State vs. Market Trade-off**  
-    - Presented at 2020 SASE Annual Meeting
+<font size="2">    - Presented at 2020 SASE Annual Meeting </font> 
