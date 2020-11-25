@@ -13,7 +13,7 @@ weight: 90
 
 *Capital Flows and Controls*
 
- **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French) [*Revue d'Economie Financière*](https://www.aef.asso.fr/publications/revue-d-economie-financiere/137-40-ans-de-liberalisation-financiere) (2020)  
+ **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French) [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
  **Capital Flow Deflection under the Magnifying Glass**, with Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland), [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
 <font size="2">    - Presented at Central Bank Research Association Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the 2019 CEREC Annual Conference on Financial Integration (2019) </font>
