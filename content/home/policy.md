@@ -12,6 +12,8 @@ weight: 130
 
 ---
 
+BdF-BoE-IMF-OECD (2020), [Global policy responses to capital flow volatility](https://blogs.imf.org/2020/12/23/global-policy-responses-to-capital-flow-volatility/)
+
 OECD (2020), [COVID-19 and Global Capital Flows](http://www.oecd.org/investment/COVID19-and-global-capital-flows-OECD-Report-G20.pdf), Report to the G20 International Financial Architecture Working Group
 
 OECD (2019), [Reserve Requirements:Current Use, Motivations and Practical Considerations](https://www.oecd.org/investment/investment-policy/Reserve-Requirements-Current-Use-Motivations-and-Practical-Considerations-technical-note.pdf)
