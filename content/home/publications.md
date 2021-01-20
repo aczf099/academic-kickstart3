@@ -29,7 +29,7 @@ weight: 90
   
 *Financial Stability*
 
-**Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements** 
+**Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
 [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
 with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
 
