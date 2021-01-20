@@ -13,7 +13,6 @@ weight: 120
 
 ***Macroprudential policy***
 
-**Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**, with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
 
 ***Political economy of finance***
 
