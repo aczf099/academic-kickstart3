@@ -29,6 +29,10 @@ weight: 90
   
 *Financial Stability*
 
+**Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements** 
+[*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
+with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
+
  **Decomposing financial (in)stability in emerging economies**  
 [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)  
  with Antonio Sánchez Serrano (ESRB)  
