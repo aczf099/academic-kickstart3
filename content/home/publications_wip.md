@@ -14,7 +14,7 @@ weight: 120
 ***Macroprudential policy***
   
 **Who is Best at Taking away the Punch Bowl? Institutional arrangements and Macroprudential activity**  
-<font size="2">   - Presented at City Departmental Seminar (2020) </font>  
+<font size="2">   - Presented at City Departmental Seminar (2020), to be presented at APSA Annual Meeting (2021), 10th PhD Student Conference in International Macroeconomics (2021) </font>  
   
 ***Political economy of finance***
   
@@ -25,12 +25,12 @@ weight: 120
 <font size="2">    - Presented at SASE Annual Meeting (2020), City Departmental Seminar (2020) </font> 
   
 **Fueling or Leaning: The Political Economy of Credit Cycles**  
-<font size="2">    - To be presented at the MPSA Annual Meeting (2021) </font>  
+<font size="2">    - Presented at the MPSA Annual Meeting (2021) </font>  
   
 ***Capital flows***  
   
 **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
 with Annamaria De Crescenzio (OECD)  
-<font size="2">    - To be presented at the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
+<font size="2">    - Presented at the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
   
 **Cross-border Real Estate Investment: Drivers, Risks & Financial Policy effectiveness - Evidence from bilateral flow data**  
