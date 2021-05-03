@@ -19,7 +19,7 @@ weight: 90
  **Capital Flow Deflection under the Magnifying Glass**  
 [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
  with Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
-<font size="2">    - Presented at Central Bank Research Association Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the 2019 CEREC Annual Conference on Financial Integration (2019) </font>
+<font size="2">    - Presented at South East Asian Central Bank (SEACEN) Centre Annual Policy Summit (2021), Central Bank Research Association (CEBRA) Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the 2019 CEREC Annual Conference on Financial Integration (2019) </font>
 
  **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
 [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
