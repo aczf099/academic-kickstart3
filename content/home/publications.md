@@ -11,7 +11,7 @@ comments: false  # Show comments?
 weight: 90
 ---
 
-<p align="center">*Capital Flows and Controls*</p>
+<p align="center">** Capital Flows and Controls **</p>
   
  **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French)  
  [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
@@ -27,7 +27,7 @@ weight: 90
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>  
   
   
-*Financial Stability*
+<p align="center">** Financial stability **</p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
 [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
@@ -50,14 +50,14 @@ with Caroline Mehigan (Bank of Ireland)
  <font size="2">   - Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018) </font>  
   
   
-*Monetary Policy*  
+<p align="center">** Monetary Policy **</p>
 
 **The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
 [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
  <font size="2">   - Awarded the LSE Susan Strange Prize (2015) </font>
 
 
-*Political Economy of Finance*  
+<p align="center">** Political economy of Finance **</p>
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
 [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
