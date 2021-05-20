@@ -11,7 +11,7 @@ comments: false  # Show comments?
 weight: 90
 ---
 
-*Capital Flows and Controls*
+<p align="center">*Capital Flows and Controls*</p>
   
  **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French)  
  [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
