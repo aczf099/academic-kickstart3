@@ -56,3 +56,9 @@ with Caroline Mehigan (Bank of Ireland)
 [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
  <font size="2">   - Awarded the LSE Susan Strange Prize (2015) </font>
 
+
+*Political Economy of Finance*  
+
+**Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
+[*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
+<font size="2">    - Presented at SASE Annual Meeting (2020), City Departmental Seminar (2020) </font> 
