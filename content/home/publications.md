@@ -27,7 +27,7 @@ weight: 90
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>  
   
   
-<p align="center">** Financial stability **</p>
+<p align="center">** Financial Stability **</p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
 [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
@@ -57,7 +57,7 @@ with Caroline Mehigan (Bank of Ireland)
  <font size="2">   - Awarded the LSE Susan Strange Prize (2015) </font>
 
 
-<p align="center">** Political economy of Finance **</p>
+<p align="center">** Political Economy of Finance **</p>
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
 [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
