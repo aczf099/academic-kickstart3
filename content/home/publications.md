@@ -22,8 +22,7 @@ weight: 90
 <font size="2">    - Presented at South East Asian Central Bank (SEACEN) Centre Annual Policy Summit (2021), Central Bank Research Association (CEBRA) Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the CEREC Annual Conference on Financial Integration (2019) </font>
 
  **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
-[*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/analysing-sectoral-capital-flows_ad9e6b1d-en) (2021)  
-[*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
+[*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/analysing-sectoral-capital-flows_ad9e6b1d-en) (2021), [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
  with Rogelio Mercado (SEACEN)  
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>  
   
@@ -35,15 +34,14 @@ weight: 90
 with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
 
  **Decomposing financial (in)stability in emerging economies**  
-[*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)  
+[*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020), [*ESRB Working Paper*](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
  with Antonio Sánchez Serrano (ESRB)  
- <font size="2">   - Also published as [*ESRB Working Paper*](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
+ <font size="2">  
     - Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Bamberg Behavioural Macroeconomics Workshop  </font>
 
 **Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector**  
-[*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020)  
+[*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020), [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf) (2017)    
 with Elias Bengtsson (ESRB) and Magdalena Grothe (ESRB)  
- <font size="2">   - Also published as [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf) (2017) </font>
 
 **The broad policy toolkit for financial stability: Foundations, Fences, and Fire doors**  
 [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en) (2019)   
