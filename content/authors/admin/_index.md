@@ -84,8 +84,11 @@ user_groups:
 
 Welcome !
 
-I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division on capital flows and capital controls. Before that, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt on systemic risk measurement and macroprudential policy effectiveness.
+I am an Economist at the OECD in Paris since 2016, where I work in the International Finance unit in the Investment Division on capital flows and capital controls.
+Before that, I worked for the Risk Analysis team at the European Systemic Risk Board (ECB) in Frankfurt on systemic risk measurement and macroprudential policy effectiveness.
 
-I am co-organising the BdF-BoE-IMF-OECD annual Workshop on International Capital Flows and the OECD session at the Central Bank Research Association (CEBRA) Annual Conference.
+I am co-organising the [BdF-BoE-IMF-OECD annual Workshop on International Capital Flows](https://www.oecd.org/investment/investment-policy/capital-flows-workshop.htm) and the [OECD session at the Central Bank Research Association (CEBRA) Annual Conference](https://gcfp.mit.edu/the-cebra-2021-annual-meeting-at-mit-gcfp/).
+
+I have published my research in international finance and political economy journals such as the Journal of Banking and Finance, Revue d'Economie Financière, Research in International Business and Finance, and New Political Economy. I have also been a reviewer for the European Economic Review, and Journal of International Financial Markets, Institutions & Money. 
 
 On this website you can find my research publications and work in progress, as well as some photography!
