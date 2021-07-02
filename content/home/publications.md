@@ -22,6 +22,7 @@ weight: 90
 <font size="2">    - Presented at South East Asian Central Bank (SEACEN) Centre Annual Policy Summit (2021), Central Bank Research Association (CEBRA) Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the CEREC Annual Conference on Financial Integration (2019) </font>
 
  **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
+[*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/analysing-sectoral-capital-flows_ad9e6b1d-en) (2021)  
 [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
  with Rogelio Mercado (SEACEN)  
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>  
