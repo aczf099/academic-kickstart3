@@ -36,8 +36,7 @@ with Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)
  **Decomposing financial (in)stability in emerging economies**  
 [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020), [*ESRB Working Paper*](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
  with Antonio Sánchez Serrano (ESRB)  
- <font size="2">  
-    - Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Bamberg Behavioural Macroeconomics Workshop  </font>
+ <font size="2">  - Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Bamberg Behavioural Macroeconomics Workshop  </font>
 
 **Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector**  
 [*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020), [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf) (2017)    
