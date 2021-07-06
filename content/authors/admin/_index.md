@@ -22,32 +22,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial regulation, international macroeconomics, and political economy.
 
-interests:
-- Financial regulation & Financial stability
-- International macroeconomics
-- Political economy
-
-education:
-  courses:
-  - course: Dual Master degree - International Political Economy
-    institution: London School of Economics
-    year: 2015
-  - course: Dual Master degree -  International Economic Policy
-    institution: Sciences Po, Paris
-    year: 2015
-  - course: Exchange program
-    institution: Columbia University
-    year: 2012
-
-work:
-  work:
-  - work: Investment division
-    institution: OECD
-    year: 2016 - present
-  - work: Risk analysis team
-    institution: European Systemic Risk Board
-    year: 2015 - 2016
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
