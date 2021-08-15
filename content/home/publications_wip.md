@@ -26,8 +26,4 @@ weight: 120
   
 <p align="center">** Capital Flows **</p>
   
-**Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
-with Annamaria De Crescenzio (OECD)  
-<font size="2">    - Presented at the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
-  
 **Cross-border Real Estate Investment: Drivers, Risks & Financial Policy effectiveness - Evidence from bilateral flow data**  
