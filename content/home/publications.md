@@ -13,6 +13,11 @@ weight: 90
 
 <p align="center">** Capital Flows and Controls **</p>
   
+  **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
+with Annamaria De Crescenzio (OECD)  
+[*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/docserver/d557b9c4-en.pdf?expires=1629023122&id=id&accname=guest&checksum=264FD240A0AADE3F01A64BEAA79D3936) (2021)
+<font size="2">    - Presented at the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
+  
  **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French)  
  [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
