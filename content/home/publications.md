@@ -16,7 +16,7 @@ weight: 90
   **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
 [*Journal of International Financial Markets, Institutions and Money*](https://www.sciencedirect.com/science/article/abs/pii/S1042443121001293) (2021),
 [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/analysing-sectoral-capital-flows_ad9e6b1d-en) (2021), [*SEACEN Working Paper*](https://www.seacen.org/publications/RePEc/702001-100471-PDF.pdf) (2020)  
- with Rogelio Mercado (SEACEN)  
+ with Rogelio Mercado (ADB)  
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>  
   
   **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
