@@ -25,5 +25,9 @@ weight: 120
 <font size="2">    - Presented at the MPSA Annual Meeting (2021) </font>  
   
 <p align="center">** Capital Flows **</p>
-  
+ 
+   **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
+[*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
+ with Daniel Carvahlo (Banco do Portugal) and Rogelio Mercado (ADB)
+
 **Cross-border Real Estate Investment: Drivers, Risks & Financial Policy effectiveness - Evidence from bilateral flow data**  
