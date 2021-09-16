@@ -63,6 +63,6 @@ Before that, I worked for the Risk Analysis team at the European Systemic Risk B
 
 I am co-organising the [BdF-BoE-IMF-OECD annual Workshop on International Capital Flows](https://www.oecd.org/investment/investment-policy/capital-flows-workshop.htm) and the [OECD session at the Central Bank Research Association (CEBRA) Annual Conference](https://gcfp.mit.edu/the-cebra-2021-annual-meeting-at-mit-gcfp/).
 
-I have published my research in international finance and political economy journals such as the Journal of Banking and Finance, Revue d'Economie Financière, Research in International Business and Finance, and New Political Economy. I have also been a reviewer for the European Economic Review, and Journal of International Financial Markets, Institutions & Money. 
+I have published my research in international finance and political economy journals such as the Journal of Banking and Finance, Journal of International Financial Markets, Institutions & Money, Revue d'Economie Financière, Research in International Business and Finance, and New Political Economy. I have also been a reviewer for the European Economic Review, and the Journal of International Financial Markets, Institutions & Money. 
 
 On this website you can find my research publications and work in progress, as well as some photography!
