@@ -14,7 +14,7 @@ weight: 120
 <p align="center">** Macroprudential Policy **</p>
   
 **Who is Best at Taking away the Punch Bowl? Institutional arrangements and Macroprudential activity**  
-<font size="2">   - Presented at City Departmental Seminar (2020), 1st London Political Economy Network PhD Conference (2021), the 10th PhD Student Conference in International Macroeconomics (Nanterre, 2021), to be presented at APSA Annual Meeting (2021), IPES Annual Conference (2021)  </font>  
+<font size="2">   - Presented at City Departmental Seminar (2020), 1st London Political Economy Network PhD Conference (2021), the 10th PhD Student Conference in International Macroeconomics (Nanterre, 2021), presented at APSA Annual Meeting (2021), IPES Annual Conference (2021)  </font>  
   
 <p align="center">** Political Economy of Finance **</p>
   
@@ -28,6 +28,7 @@ weight: 120
  
    **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
 [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
- with Daniel Carvahlo (Banco do Portugal) and Rogelio Mercado (ADB)
+ with Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)
+<font size="2">   - Presented at Asian Development Bank Economist Forum (2021), the CBSL-ADBI Annual Conference (2021), the 1st MGIMO "Frontiers in International Finance" Conference (2021), the Vietnam Symposium in Banking and Finance (2021)  </font> 
 
 **Cross-border Real Estate Investment: Drivers, Risks & Financial Policy effectiveness - Evidence from bilateral flow data**  
