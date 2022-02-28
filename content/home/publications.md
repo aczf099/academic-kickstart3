@@ -20,7 +20,8 @@ WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary
 <font size="2">    - Presented at Asian Development Bank RCI-POD Webinar (2020) </font>  
   
   **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
-WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/docserver/d557b9c4-en.pdf?expires=1629023122&id=id&accname=guest&checksum=264FD240A0AADE3F01A64BEAA79D3936) (2021)  | [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-policy/OECD-monthly-capital-flow-dataset.xlsx)  
+WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/docserver/d557b9c4-en.pdf?expires=1629023122&id=id&accname=guest&checksum=264FD240A0AADE3F01A64BEAA79D3936) (2021)  
+Data: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-policy/OECD-monthly-capital-flow-dataset.xlsx)  
 with Annamaria De Crescenzio (OECD)  
 <font size="2">    - Presented at the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
   
