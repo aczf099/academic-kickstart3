@@ -11,7 +11,7 @@ comments: false  # Show comments?
 weight: 90
 ---
 
-<p align="center"><span style=color:DarkSlateBlue>** Capital Flows and Controls **</span></p>
+<p align="center"><span style=color:DodgerBlue>** Capital Flows and Controls **</span></p>
   
   **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
 [*Journal of International Financial Markets, Institutions and Money*](https://www.sciencedirect.com/science/article/abs/pii/S1042443121001293) (2021)  
@@ -33,7 +33,7 @@ WP: [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/e
  with Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
 <font size="2">    - Presented at South East Asian Central Bank (SEACEN) Centre Annual Policy Summit (2021), Central Bank Research Association (CEBRA) Annual Conference (2020), Reserve Bank of India Seminar (2020), OECD Economics Department Brownbag Seminar (2020), at the CEREC Annual Conference on Financial Integration (2019) </font>  
   
-<p align="center"><span style=color:DarkSlateBlue>** Financial Stability **</span></p>
+<p align="center"><span style=color:DodgerBlue>** Financial Stability **</span></p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
 WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
@@ -56,14 +56,14 @@ with Caroline Mehigan (Bank of Ireland)
  <font size="2">   - Presented at CEBRA Annual Conference (Columbia University, 2019); OECD Investment Brownbag Seminar (2018) </font>  
   
   
-<p align="center"><span style=color:DarkSlateBlue>** Monetary Policy **</span></p>
+<p align="center"><span style=color:DodgerBlue>** Monetary Policy **</span></p>
 
 **The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
 [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
  <font size="2">   - Awarded the LSE Susan Strange Prize (2015) </font>
 
 
-<p align="center"><span style=color:DarkSlateBlue>** Political Economy of Finance **</span></p>
+<p align="center"><span style=color:DodgerBlue>** Political Economy of Finance **</span></p>
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
 WP: [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
