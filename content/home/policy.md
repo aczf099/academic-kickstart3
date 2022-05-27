@@ -12,6 +12,8 @@ weight: 130
 
 ---
 
+OECD (2022), [International investment implications of Russia’s war against Ukraine](https://www.oecd-ilibrary.org/deliver/a24af3d7-en.pdf?itemId=%2Fcontent%2Fpublication%2Fa24af3d7-en&mimeType=pdf)  
+
 BdF-BoE-IMF-OECD (2020), [Global policy responses to capital flow volatility](https://blogs.imf.org/2020/12/23/global-policy-responses-to-capital-flow-volatility/)
 
 OECD (2020), [COVID-19 and Global Capital Flows](http://www.oecd.org/investment/COVID19-and-global-capital-flows-OECD-Report-G20.pdf), Report to the G20 International Financial Architecture Working Group
