@@ -26,6 +26,7 @@ Joint with: Matthias Thiemann (Sciences Po)
 <font size="2">   Presented at 10th UECE Conference on Economic and Financial Adjustments (Lisbon, 2022), CESifo Workshop on Political Economy (Dresden, 2019), Economics and Politics Workshop (Brussels, 2019) </font> 
   
 **Fueling or Leaning: Introducing a New Dataset of Credit Policies**  
+Data: [Credit Policy Dataset](https://github.com/aczf099/academic-kickstart3/blob/c42f497d79d0d9955e8debcaae920433d84e00f8/content/home/Credit_pol_panel_public.xlsx)
 <font size="2">   Presented at the MPSA Annual Meeting (2021) </font>  
   
 <p align="center"><span style=color:DodgerBlue>** Capital Flows **</span></p>
