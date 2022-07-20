@@ -26,7 +26,7 @@ Joint with: Annamaria De Crescenzio (OECD)
 <font size="2">    - Presented at Strasbourg Fourth ERMEES Macroeconomics Workshop (2021) and the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
   
  **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French)  
- Journal:[*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
+ Journal: [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
  **Capital Flow Deflection under the Magnifying Glass**  
 WP: [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
@@ -40,13 +40,13 @@ WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary
 Joint with: Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
 
  **Decomposing financial (in)stability in emerging economies**  
-Journal:[*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)   
+Journal: [*Research in International Business and Finance*](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)   
 WP: [*ESRB Working Paper*](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
 Joint with: Antonio Sánchez Serrano (ESRB)  
  <font size="2">  Presented at 5th Bordeaux Workshop in International Economics and Finance, 1st Bamberg Behavioural Macroeconomics Workshop  </font>
 
 **Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector**  
-Journal:[*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020)  
+Journal: [*Journal of Banking and Finance*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020)  
 WP: [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf) (2017)    
 Joint with: Elias Bengtsson (ESRB) and Magdalena Grothe (ESRB)  
 
@@ -59,7 +59,7 @@ Joint with: Caroline Mehigan (Bank of Ireland)
 <p align="center"><span style=color:DodgerBlue>** Monetary Policy **</span></p>
 
 **The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
-Journal:[*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
+Journal: [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
  <font size="2">   Awarded the LSE Susan Strange Prize (2015) </font>
 
 
