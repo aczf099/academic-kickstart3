@@ -23,7 +23,7 @@ Joint with: Matthias Thiemann (Sciences Po)
 <p align="center"><span style=color:DodgerBlue>** Political Economy of Finance **</span></p>
   
 **Surfing the Credit Wave: How Political Cycles drive Credit Booms**  
-WP: [*REM Working Paper*](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0239_2022.pdf) (2022)
+WP: [*REM Working Paper*](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0239_2022.pdf) (2022)  
 <font size="2">   Presented at 10th UECE Conference on Economic and Financial Adjustments (Lisbon, 2022), CESifo Workshop on Political Economy (Dresden, 2019), Economics and Politics Workshop (Brussels, 2019) </font> 
   
 **Fueling or Leaning: Introducing a New Dataset of Credit Policies**  
