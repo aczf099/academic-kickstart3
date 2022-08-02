@@ -23,6 +23,7 @@ Joint with: Matthias Thiemann (Sciences Po)
 <p align="center"><span style=color:DodgerBlue>** Political Economy of Finance **</span></p>
   
 **Surfing the Credit Wave: How Political Cycles drive Credit Booms**  
+WP: [*REM Working Paper*](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0239_2022.pdf) (2022)
 <font size="2">   Presented at 10th UECE Conference on Economic and Financial Adjustments (Lisbon, 2022), CESifo Workshop on Political Economy (Dresden, 2019), Economics and Politics Workshop (Brussels, 2019) </font> 
   
 **Fueling or Leaning: Introducing a New Dataset of Credit Policies**  
@@ -32,7 +33,7 @@ Data: [Credit Policy Dataset](https://github.com/aczf099/academic-kickstart3/blo
 <p align="center"><span style=color:DodgerBlue>** Capital Flows **</span></p>
  
 **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
-[*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
+WP: [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
 Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)  
 <font size="2">   Presented at Asian Development Bank Economist Forum (2021), the CBSL-ADBI Annual Conference (2021), the 1st MGIMO "Frontiers in International Finance" Conference (2021), the Vietnam Symposium in Banking and Finance (2021), SEACEN Research Webinar (2022)  </font> 
 
