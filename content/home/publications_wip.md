@@ -33,7 +33,7 @@ Data: [Credit Policy Dataset](https://github.com/aczf099/academic-kickstart3/blo
 <p align="center"><span style=color:DodgerBlue>** Capital Flows **</span></p>
  
 **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
-WP: [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
+WP: [*SEACEN Working Paper*](https://www.seacen.org/download.php?id=702001-100480) (2022); [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
 Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)  
 <font size="2">   Presented at Asian Development Bank Economist Forum (2021), the CBSL-ADBI Annual Conference (2021), the 1st MGIMO "Frontiers in International Finance" Conference (2021), the Vietnam Symposium in Banking and Finance (2021), SEACEN Research Webinar (2022)  </font> 
 
