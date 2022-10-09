@@ -11,5 +11,4 @@ comments: false  # Show comments?
 weight: 150
 ---
 
-Photography:
-(https://etienne-lepers.wixsite.com/photography](https://etienne-lepers.wixsite.com/photography)
+Photography:https://etienne-lepers.wixsite.com/photography
