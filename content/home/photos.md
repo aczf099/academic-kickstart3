@@ -12,4 +12,4 @@ weight: 150
 ---
 
 Photography:
-[https://urgeofelsewhere.carbonmade.com/](https://etienne-lepers.wixsite.com/my-site](https://etienne-lepers.wixsite.com/my-site)
+(https://etienne-lepers.wixsite.com/photography](https://etienne-lepers.wixsite.com/photography)
