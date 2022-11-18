@@ -23,7 +23,7 @@ Joint with: Rogelio Mercado (ADB)
 WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/docserver/d557b9c4-en.pdf?expires=1629023122&id=id&accname=guest&checksum=264FD240A0AADE3F01A64BEAA79D3936) (2021)  
 Data: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-policy/OECD-monthly-capital-flow-dataset.xlsx)  
 Joint with: Annamaria De Crescenzio (OECD)  
-<font size="2">    - Presented at Strasbourg Fourth ERMEES Macroeconomics Workshop (2021) and the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
+<font size="2">    - Presented at 2nd Lille-Reading Workshop on International Finance (2022), Strasbourg Fourth ERMEES Macroeconomics Workshop (2021) and the ifo Workshop on Macroeconomics and International Finance (2021) </font> 
   
  **The liberalization of capital movements: Between structural transformations, circular debates, and multilateral frameworks** (in French)  
  Journal: [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
