@@ -36,6 +36,7 @@ Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)
 <p align="center"><span style=color:DodgerBlue>** Financial Stability **</span></p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
+Journal: International Journal of Central Banking, forthcoming Dec 2023
 WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
 Joint with: Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
 
