@@ -12,9 +12,8 @@ weight: 90
 ---
 
 <p align="center"><span style=color:DodgerBlue>
-  ********************************  
-  ** Capital Flows and Controls **  
-  ********************************  
+    
+  ***** Capital Flows and Controls *****  
   </span></p>
   
   **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
@@ -35,9 +34,7 @@ WP: [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/e
 Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
   
 <p align="center"><span style=color:DodgerBlue>
-  *************************  
-  ** Financial Stability **  
-  *************************  
+  ***** Financial Stability *****  
   </span></p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
@@ -61,18 +58,14 @@ WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary
   
   
 <p align="center"><span style=color:DodgerBlue>
-  *********************
-  ** Monetary Policy **
-  *********************
+  ***** Monetary Policy *****
   </span></p>
 
 **The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
 Journal: [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
 
 <p align="center"><span style=color:DodgerBlue>
-  **********************************
-  ** Political Economy of Finance **
-  **********************************
+  ***** Political Economy of Finance *****
   </span></p>
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
