@@ -15,7 +15,10 @@ weight: 90
     
   ***** Capital Flows and Controls *****  
   </span></p>
-  
+
+  **Cross-border Real Estate Investment: A different animal? Comparative evidence from bilateral flow data**  
+Journal: Review of World Economics, forthcoming 2023  
+
   **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
 Joint with: Rogelio Mercado (SEACEN)  
 Journal: [*Journal of International Financial Markets, Institutions and Money*](https://www.sciencedirect.com/science/article/abs/pii/S1042443121001293) (2021)  
@@ -30,7 +33,7 @@ Data: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-pol
  Journal: [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
  **Capital Flow Deflection under the Magnifying Glass**  
-Journal: International Journal of Finance and Economics, forthcoming
+Journal: International Journal of Finance and Economics, forthcoming 2023  
 WP: [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
 Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
   
@@ -57,17 +60,16 @@ WP: [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en
 Joint with: Caroline Mehigan (Bank of Ireland)  
 WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en) (2019)   
   
-  
 <p align="center"><span style=color:DodgerBlue>
-  ***** Monetary Policy *****
+  ***** Political Economy of Finance and Regulation *****
   </span></p>
 
-**The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
-Journal: [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
-
-<p align="center"><span style=color:DodgerBlue>
-  ***** Political Economy of Finance *****
-  </span></p>
+  **Taming the real estate boom in the EU: Pathways to macroprudential (in)action**  
+Joint with: Matthias Thiemann (Sciences Po)  
+Journal: Regulation & Governance, forthcoming 2023  
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
 WP: [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
+
+**The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
+Journal: [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
