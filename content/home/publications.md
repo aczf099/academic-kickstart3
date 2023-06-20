@@ -66,7 +66,7 @@ WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary
 
   **Taming the real estate boom in the EU: Pathways to macroprudential (in)action**  
 Joint with: Matthias Thiemann (Sciences Po)  
-Journal: Regulation & Governance, forthcoming 2023  
+Journal: [*Regulation & Governance*](https://onlinelibrary.wiley.com/doi/epdf/10.1111/rego.12529) (2023)  
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
 WP: [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
