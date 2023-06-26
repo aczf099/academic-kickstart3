@@ -33,9 +33,9 @@ Data: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-pol
  Journal: [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
  **Capital Flow Deflection under the Magnifying Glass**  
+Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
 Journal: International Journal of Finance and Economics, forthcoming 2023  
 WP: [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
-Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
   
 <p align="center"><span style=color:DodgerBlue>
   ***** Financial Stability *****  
