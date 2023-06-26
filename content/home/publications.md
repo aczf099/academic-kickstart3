@@ -17,7 +17,7 @@ weight: 90
   </span></p>
 
   **Cross-border Real Estate Investment: A different animal? Comparative evidence from bilateral flow data**  
-Journal: Review of World Economics, forthcoming 2023  
+Journal: [*Review of World Economics*](https://link.springer.com/article/10.1007/s10290-023-00505-5) (2023)  
 
   **Sectoral Capital Flows: Covariates, Comovements, and Controls**  
 Joint with: Rogelio Mercado (SEACEN)  
