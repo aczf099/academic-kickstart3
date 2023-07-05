@@ -68,8 +68,5 @@ Joint with: Caroline Mehigan (Bank of Ireland)
 Joint with: Matthias Thiemann (Sciences Po)  
 **Journal**: [*Regulation & Governance*](https://onlinelibrary.wiley.com/doi/epdf/10.1111/rego.12529) (2023)  
 
-**Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
-**WP**: [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
-
 **The Neutrality Illusion: Biased Economics, Biased Training, and Biased Monetary Policy. Testing the Role of Ideology on FOMC Voting Behaviour**  
 **Journal**: [*New Political Economy*](https://www.tandfonline.com/doi/abs/10.1080/13563467.2017.1332019?journalCode=cnpe20) (2017)  
