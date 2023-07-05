@@ -11,9 +11,9 @@ comments: false  # Show comments?
 weight: 90
 ---
 
-<p align="center"><span style=color:DodgerBlue>
+<p align="center"><span style=color:DodgerBlue><b>
     
-  ***** Capital Flows and Controls *****  
+  ***** Capital Flows and Controls *****  </b>
   </span></p>
 
  **Capital Flow Deflection under the Magnifying Glass**  
@@ -38,8 +38,8 @@ Data: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-pol
  **Journal**: [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
   
-<p align="center"><span style=color:DodgerBlue>
-  ***** Financial Stability *****  
+<p align="center"><span style=color:DodgerBlue><b>
+  ***** Financial Stability *****  </b>
   </span></p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
@@ -61,8 +61,8 @@ WP: [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en
 Joint with: Caroline Mehigan (Bank of Ireland)  
 WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en) (2019)   
   
-<p align="center"><span style=color:DodgerBlue>
-  ***** Political Economy of Finance and Regulation *****
+<p align="center"><span style=color:DodgerBlue><b>
+  ***** Political Economy of Finance and Regulation ***** </b>
   </span></p>
 
   **Taming the real estate boom in the EU: Pathways to macroprudential (in)action**  
