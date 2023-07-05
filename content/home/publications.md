@@ -11,14 +11,14 @@ comments: false  # Show comments?
 weight: 90
 ---
 
-<p align="center"><span style=color:DodgerBlue><b>
+<p align="center"><span style=color:DodgerBlue>
     
-  ***** Capital Flows and Controls *****  </b>
+  ***** CAPITAL FLOWS AND CONTROLS *****  
   </span></p>
 
  **Capital Flow Deflection under the Magnifying Glass**  
 Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
-**Journal**: [*International Journal of Finance and Economics*](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2847) (2023)
+**Journal**: [*International Journal of Finance and Economics*](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2847) (2023)  
 WP: [*OECD Economics Department Working Papers*](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)  
 
 **Cross-border Real Estate Investment: A different animal? Comparative evidence from bilateral flow data**  
@@ -38,8 +38,8 @@ Data: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-pol
  **Journal**: [*Revue d'Economie Financière*](https://www.cairn.info/revue-d-economie-financiere-2020-1-page-247.htm) (2020)  
 
   
-<p align="center"><span style=color:DodgerBlue><b>
-  ***** Financial Stability *****  </b>
+<p align="center"><span style=color:DodgerBlue>
+  ***** FINANCIAL STABILITY *****  
   </span></p>
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
@@ -61,8 +61,8 @@ WP: [*ECB Working Paper*](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en
 Joint with: Caroline Mehigan (Bank of Ireland)  
 WP: [*OECD Working Paper on International Investment*](https://www.oecd-ilibrary.org/finance-and-investment/the-broad-policy-toolkit-for-financial-stability_9188f06a-en) (2019)   
   
-<p align="center"><span style=color:DodgerBlue><b>
-  ***** Political Economy of Finance and Regulation ***** </b>
+<p align="center"><span style=color:DodgerBlue>
+  ***** POLITICAL ECONOMY OF FINANCE AND REGULATION ***** 
   </span></p>
 
   **Taming the real estate boom in the EU: Pathways to macroprudential (in)action**  
