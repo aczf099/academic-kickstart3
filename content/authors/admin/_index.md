@@ -16,8 +16,8 @@ role: Economist
 organizations:
 - name: OECD
   url: "https://www.oecd.org/"
-- name: City, University of London
-  url: "https://www.city.ac.uk/"
+- name: CITYPERC
+  url: "https://researchcentres.city.ac.uk/political-economy"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include financial regulation, international macroeconomics, and political economy.
