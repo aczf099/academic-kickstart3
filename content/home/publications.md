@@ -64,6 +64,10 @@ Joint with: Caroline Mehigan (Bank of Ireland)
   ***** POLITICAL ECONOMY OF FINANCE AND REGULATION ***** 
   </span></p>
 
+**Surfing the Credit Wave: How Political Cycles drive Credit Booms**  
+**Journal**: European Journal of Political Economy, forthcoming
+**WP**: [*REM Working Paper*](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0239_2022.pdf) (2022)  
+
   **Taming the real estate boom in the EU: Pathways to macroprudential (in)action**  
 Joint with: Matthias Thiemann (Sciences Po)  
 **Journal**: [*Regulation & Governance*](https://onlinelibrary.wiley.com/doi/epdf/10.1111/rego.12529) (2023)  
