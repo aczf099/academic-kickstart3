@@ -64,6 +64,6 @@ I received my PhD from City, University of London and a dual master degree from 
 
 I am co-organising the [BdF-BoE-IMF-OECD annual Workshop on International Capital Flows](https://www.oecd.org/investment/investment-policy/capital-flows-workshop.htm) and the [OECD session at the Central Bank Research Association (CEBRA) Annual Conference](https://gcfp.mit.edu/the-cebra-2021-annual-meeting-at-mit-gcfp/). I am also since 2021 a core instructor in the ESRB-ECB led EIU/FBF Course on Macroprudential Policy Implementation. 
 
-I have published my research in international finance and political economy journals such as the Journal of Banking and Finance, International Journal of Central Banking, International Journal of Finance & Economics, Journal of International Financial Markets, Institutions & Money, Review of World Economics, Revue d'Economie Financière, Regulation & Governance, and New Political Economy. 
+I have published my research in international finance and political economy journals such as the Journal of Banking and Finance, European Journal of Political Economy, International Journal of Central Banking, International Journal of Finance & Economics, Journal of International Financial Markets, Institutions & Money, Review of World Economics, Revue d'Economie Financière, Regulation & Governance, and New Political Economy. 
 
 On this website you can find my research publications and work in progress, as well as some photography!
