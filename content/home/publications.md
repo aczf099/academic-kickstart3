@@ -65,7 +65,7 @@ Joint with: Caroline Mehigan (Bank of Ireland)
   </span></p>
 
 **Surfing the Credit Wave: How Political Cycles drive Credit Booms**  
-**Journal**: European Journal of Political Economy, forthcoming
+**Journal**: [*European Journal of Political Economy*](https://www.sciencedirect.com/science/article/abs/pii/S0176268023001003) (2023)  
 **WP**: [*REM Working Paper*](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0239_2022.pdf) (2022)  
 
   **Taming the real estate boom in the EU: Pathways to macroprudential (in)action**  
