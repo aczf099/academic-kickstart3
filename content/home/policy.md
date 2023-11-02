@@ -12,7 +12,7 @@ weight: 130
 
 ---
 
-OECD (2023), [Towards Orderly Green Transition: Investment Requirements and Managing Risks to Capital Flows](https://www.oecd.org/investment/investment-policy/towards-orderly-green-transition.pdf)  
+OECD (2023), [Towards Orderly Green Transition: Investment Requirements and Managing Risks to Capital Flows](https://www.oecd.org/investment/investment-policy/towards-orderly-green-transition.pdf) summarized in [VoxEU](https://cepr.org/voxeu/columns/lack-portfolio-investment-finance-green-companies-emerging-markets)
 
 OECD (2022), [International investment implications of Russia’s war against Ukraine](https://www.oecd-ilibrary.org/deliver/a24af3d7-en.pdf?itemId=%2Fcontent%2Fpublication%2Fa24af3d7-en&mimeType=pdf)  
 
