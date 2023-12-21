@@ -54,7 +54,7 @@ Joint with: Antonio Sánchez Serrano (ESRB)
 
 **Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector**  
 Joint with: Elias Bengtsson (ESRB) and Magdalena Grothe (ESRB)  
-**Journal**: [Journal of Banking and Financ*](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020)  
+**Journal**: [Journal of Banking and Finance](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020)  
 **WP**: [ECB Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf) (2017)    
 
 **The broad policy toolkit for financial stability: Foundations, Fences, and Fire doors**  
