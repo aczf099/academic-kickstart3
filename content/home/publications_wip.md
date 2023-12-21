@@ -23,12 +23,16 @@ Data: [Credit Policy Dataset](https://github.com/aczf099/academic-kickstart3/blo
 <font size="2">   Presented at the MPSA Annual Meeting (2021) </font>  
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
-**WP**: [*CITYPERC Working Paper*](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
+**WP**: [CITYPERC](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
   
 <p align="center"><span style=color:DodgerBlue>** CAPITAL FLOWS **</span></p>
  
 **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
-WP: [*SEACEN Working Paper*](https://www.seacen.org/download.php?id=702001-100480) (2022); [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
+WP: [SEACEN](https://www.seacen.org/download.php?id=702001-100480) (2022); [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
 Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)  
 <font size="2">   Presented at Asian Development Bank Economist Forum (2021), the CBSL-ADBI Annual Conference (2021), the 1st MGIMO "Frontiers in International Finance" Conference (2021), the Vietnam Symposium in Banking and Finance (2021), SEACEN Research Webinar (2022)  </font> 
 
+<p align="center"><span style=color:DodgerBlue>** GREEN FINANCE **</span></p>
+
+**What Drives Capital to Green Companies in Emerging Markets: Evidence from Investment Funds**  
+Joint with: Annamaria De Crescenzio (OECD) 
