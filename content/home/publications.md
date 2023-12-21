@@ -44,7 +44,7 @@ Joint with: Rogelio Mercado (SEACEN)
 
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
 Joint with: Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
-**Journal**: International Journal of Central Banking, forthcoming Dec 2023  
+**Journal**: [International Journal of Central Banking](https://www.ijcb.org/journal/ijcb23q5a10.pdf) (2023)  
 **WP**: [OECD Working Paper on International Investment](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
 
  **Decomposing financial (in)stability in emerging economies**  
