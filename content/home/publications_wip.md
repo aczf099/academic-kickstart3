@@ -20,10 +20,7 @@ weight: 120
   
 **Fueling or Leaning: Introducing a New Dataset of Credit Policies**  
 **Data**: [Credit Policy Dataset](https://github.com/aczf099/academic-kickstart3/blob/c42f497d79d0d9955e8debcaae920433d84e00f8/content/home/Credit_pol_panel_public.xlsx)  
-<font size="2">   Presented at the MPSA Annual Meeting (2021) </font>  
-
-**Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
-**WP**: [CITYPERC](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)  
+<font size="2">   Presented at the MPSA Annual Meeting (2021) </font>   
   
 <p align="center"><span style=color:DodgerBlue>** CAPITAL FLOWS **</span></p>
  
