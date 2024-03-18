@@ -65,6 +65,10 @@ Joint with: Caroline Mehigan (Bank of Ireland)
   ***** POLITICAL ECONOMY OF FINANCE AND REGULATION ***** 
   </span></p>
 
+**Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
+**Journal**: Economy & Society (forthcoming) (2024)
+**WP**: [CITYPERC](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021) 
+
 **Surfing the Credit Wave: How Political Cycles drive Credit Booms**  
 **Journal**: [European Journal of Political Economy](https://www.sciencedirect.com/science/article/abs/pii/S0176268023001003) (2023)  
 **WP**: [REM](https://rem.rc.iseg.ulisboa.pt/wps/pdf/REM_WP_0239_2022.pdf) (2022)  
