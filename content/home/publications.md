@@ -15,9 +15,15 @@ weight: 90
   ***** CAPITAL FLOWS AND CONTROLS *****  
   </span></p>
 
+**Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
+**Journal**: Open Economies Review, forthcoming 2024
+**WP**: [SEACEN](https://www.seacen.org/download.php?id=702001-100480) (2022); [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
+Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)  
+<font size="2">   Presented at Asian Development Bank Economist Forum (2021), the CBSL-ADBI Annual Conference (2021), the 1st MGIMO "Frontiers in International Finance" Conference (2021), the Vietnam Symposium in Banking and Finance (2021), SEACEN Research Webinar (2022)  </font>  
+  
   **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
 Joint with: Annamaria De Crescenzio (OECD)  
-**Journal**: Open Economies Review, Special Issue on “Tensions within Globalisation”, forthcoming Dec 2023  
+**Journal**: Open Economies Review, Special Issue on “Tensions within Globalisation”, forthcoming 2024  
 **WP**: [OECD](https://www.oecd-ilibrary.org/docserver/d557b9c4-en.pdf?expires=1629023122&id=id&accname=guest&checksum=264FD240A0AADE3F01A64BEAA79D3936) (2021)  
 **Data**: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-policy/OECD-monthly-capital-flow-dataset.xlsx)  
 
