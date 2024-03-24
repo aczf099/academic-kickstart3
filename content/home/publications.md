@@ -66,7 +66,7 @@ Joint with: Caroline Mehigan (Bank of Ireland)
   </span></p>
 
 **Fiscal Policy as Credit Policy: A New Perspective on the Fiscal Spending vs. Market Trade-off**  
-**Journal**: Economy & Society (forthcoming) (2024)
+**Journal**: Economy & Society (forthcoming) (2024), [Online Supplementary Material](https://github.com/aczf099/academic-kickstart3/blob/master/content/home/E%26S%20supplementary%20material.pdf)  
 **WP**: [CITYPERC](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021) 
 
 **Surfing the Credit Wave: How Political Cycles drive Credit Booms**  
