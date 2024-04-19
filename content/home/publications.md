@@ -22,7 +22,7 @@ Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)
   
   **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
 Joint with: Annamaria De Crescenzio (OECD)  
-**Journal**: Open Economies Review, Special Issue on “Tensions within Globalisation”, forthcoming 2024  
+**Journal**: [Open Economies Review](https://link.springer.com/article/10.1007/s11079-023-09745-2#Fn4) (2024), Special Issue on “Tensions within Globalisation”  
 **WP**: [OECD](https://www.oecd-ilibrary.org/docserver/d557b9c4-en.pdf?expires=1629023122&id=id&accname=guest&checksum=264FD240A0AADE3F01A64BEAA79D3936) (2021)  
 **Data**: [Monthly Capital Flow Dataset](https://www.oecd.org/daf/inv/investment-policy/OECD-monthly-capital-flow-dataset.xlsx)  
 
@@ -50,17 +50,17 @@ Joint with: Rogelio Mercado (SEACEN)
 **Assessing the effectiveness of currency-differentiated tools: the case of reserve requirements**  
 Joint with: Annamaria De Crescenzio (OECD) & Zoe Fannon (Oxford)  
 **Journal**: [International Journal of Central Banking](https://www.ijcb.org/journal/ijcb23q5a10.pdf) (2023)  
-**WP**: [OECD](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)   
-
- **Decomposing financial (in)stability in emerging economies**  
-Joint with: Antonio Sánchez Serrano (ESRB)  
-**Journal**: [Research in International Business and Finance](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)   
-**WP**: [ESRB](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017)  
+**WP**: [OECD](https://www.oecd-ilibrary.org/fr/finance-and-investment/assessing-the-effectiveness-of-currency-differentiated-tools_e979a657-en) (2021)    
 
 **Home, safe home: Cross-country monitoring framework for vulnerabilities in the residential real estate sector**  
 Joint with: Elias Bengtsson (ESRB) and Magdalena Grothe (ESRB)  
 **Journal**: [Journal of Banking and Finance](https://www.sciencedirect.com/science/article/abs/pii/S0378426617302935?via%3Dihub) (2020), Special Issue on "Challenges to global financial stability"  
 **WP**: [ECB](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2096.en.pdf) (2017)    
+
+**Decomposing financial (in)stability in emerging economies**  
+Joint with: Antonio Sánchez Serrano (ESRB)  
+**Journal**: [Research in International Business and Finance](https://www.sciencedirect.com/science/article/pii/S0275531918309462?dgcid=author#fig0055) (2020)   
+**WP**: [ESRB](https://www.esrb.europa.eu//pub/pdf/wp/esrbwp39.en.pdf) (2017) 
 
 **The broad policy toolkit for financial stability: Foundations, Fences, and Fire doors**  
 Joint with: Caroline Mehigan (Bank of Ireland)  
