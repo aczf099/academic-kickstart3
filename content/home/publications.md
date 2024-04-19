@@ -17,7 +17,7 @@ weight: 90
 
 **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
 **Journal**: Open Economies Review, forthcoming 2024  
-**WP**: [SEACEN](https://www.seacen.org/download.php?id=702001-100480) (2022); [*Trinity College Dublin Working Paper*](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
+**WP**: [SEACEN](https://www.seacen.org/download.php?id=702001-100480) (2022); [Trinity College Dublin Working Paper](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)  
 Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (ADB)  
   
   **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
