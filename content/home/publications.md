@@ -17,7 +17,9 @@ weight: 90
 
 **Taming the "Capital Flows-Credit Nexus": A Sectoral Approach**  
 Joint with: Daniel Carvalho (Banco do Portugal) and Rogelio Mercado (SEACEN)  
-**Journal**: [Open Economies Review](https://link.springer.com/article/10.1007/s11079-024-09762-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240515&utm_content=10.1007/s11079-024-09762-9) (2024)   [WP: [SEACEN](https://www.seacen.org/download.php?id=702001-100480) (2022); [Trinity College Dublin](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)]  
+**Journal**: [Open Economies Review](https://link.springer.com/article/10.1007/s11079-024-09762-9?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240515&utm_content=10.1007/s11079-024-09762-9) (2024) 
+ 
+ [WP: [SEACEN](https://www.seacen.org/download.php?id=702001-100480) (2022); [Trinity College Dublin](https://ideas.repec.org/p/tcd/tcduee/tep0921.html) (2021)]  
   
   **Extreme capital flow episodes from the Global Financial Crisis to COVID-19: An exploration with monthly data**  
 Joint with: Annamaria De Crescenzio (OECD)  
@@ -27,8 +29,9 @@ Joint with: Annamaria De Crescenzio (OECD)
 
  **Capital Flow Deflection under the Magnifying Glass**  
 Joint with: Filippo Gori (OECD) and Caroline Mehigan (Central Bank of Ireland)  
-**Journal**: [International Journal of Finance and Economics](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2847) (2023) 
- [WP: [OECD](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)]  
+**Journal**: [International Journal of Finance and Economics](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2847) (2023)  
+[WP: [OECD](https://www.oecd-ilibrary.org/economics/capital-flow-deflection-under-the-magnifying-glass_398180d0-en) (2020)]  
+
 **Cross-border Real Estate Investment: A different animal? Comparative evidence from bilateral flow data**  
 **Journal**: [Review of World Economics](https://link.springer.com/article/10.1007/s10290-023-00505-5) (2023)  
 
