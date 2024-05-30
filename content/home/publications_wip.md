@@ -10,11 +10,6 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 weight: 120
 ---
-
-<p align="center"><span style=color:DodgerBlue>** MACROPRUDENTIAL POLICY **</span></p> 
-
-**Macroprudential governance and Capacity to remove the punch bowl**  
-<font size="2">   Presented at City University of London Departmental Seminar (2020), 1st London Political Economy Network PhD Conference (2021), the 10th PhD Student Conference in International Macroeconomics (Nanterre, 2021), APSA Annual Meeting (2021), IPES Annual Conference (2021)  </font>  
   
 <p align="center"><span style=color:DodgerBlue>** POLITICAL ECONOMY OF FINANCE **</span></p>
   
