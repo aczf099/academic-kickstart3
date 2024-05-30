@@ -70,6 +70,10 @@ Joint with: Caroline Mehigan (Bank of Ireland)
   ***** POLITICAL ECONOMY OF FINANCE AND REGULATION ***** 
   </span></p>
 
+**Macroprudential governance and Capacity to remove the punch bowl**  
+**Journal**: IMF Economic Review (forthcoming)  
+**Data**: [Macroprudential Policy Independence index]()   
+
 **Fiscal policy as credit policy: Homeownership subsidization and the household debt boom**  
 **Journal**: [Economy & Society](https://www.tandfonline.com/eprint/PRRV5QNMGBC6XBHQBPIR/full?target=10.1080/03085147.2024.2344354)  (2024), [Online Supplementary Material](https://github.com/aczf099/academic-kickstart3/blob/master/content/home/E%26S%20supplementary%20material.pdf)  
 [WP: [CITYPERC](https://researchcentres.city.ac.uk/__data/assets/pdf_file/0003/607701/CITYPERC-WPS-2021-04-Lepers.pdf) (2021)]   
