@@ -71,7 +71,7 @@ Joint with: Caroline Mehigan (Bank of Ireland)
   </span></p>
 
 **Macroprudential governance and Capacity to remove the punch bowl**  
-**Journal**: [IMF Economic Review](https://link.springer.com/article/10.1057/s41308-024-00258-7)  
+**Journal**: [IMF Economic Review](https://link.springer.com/article/10.1057/s41308-024-00258-7) (2024)    
 **Data**: [Macroprudential Policy Independence index](https://github.com/aczf099/academic-kickstart3/blob/191015c60ae79db5f26530bf5296cfc66b4830c0/content/home/Macropru_index_online.xlsx)   
 
 **Fiscal policy as credit policy: Homeownership subsidization and the household debt boom**  
