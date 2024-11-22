@@ -12,6 +12,8 @@ weight: 130
 
 ---
 
+G20/OECD (2024), [G20/OECD report on assessing and promoting capital flow resilience in Emerging Markets and Developing Economies](https://www.oecd-ilibrary.org/finance-and-investment/g20-oecd-report-on-assessing-and-promoting-capital-flow-resilience-in-emerging-markets-and-developing-economies_b261bbe7-en)  
+
 OECD (2023), [Towards Orderly Green Transition: Investment Requirements and Managing Risks to Capital Flows](https://www.oecd.org/investment/investment-policy/towards-orderly-green-transition.pdf)  
 Press: [VoxEU](https://cepr.org/voxeu/columns/lack-portfolio-investment-finance-green-companies-emerging-markets)  
 
