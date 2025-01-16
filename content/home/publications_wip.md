@@ -21,7 +21,7 @@ weight: 120
 
 **What Drives Capital to Green Companies in Emerging Markets: Evidence from Investment Funds**  
 Joint with: Annamaria De Crescenzio (OECD)  
-**Working paper**: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947278)  
+**Working paper**: [OECD](https://www.oecd.org/en/publications/what-drives-capital-to-green-companies-in-emerging-markets_5f532f4d-en.html)  
 **Related report**: [OECD Report to the G20 Finance Minister and Central Bank Governors](https://www.oecd.org/investment/investment-policy/towards-orderly-green-transition.pdf)  
 **Media**: [VoxEU column](https://cepr.org/voxeu/columns/lack-portfolio-investment-finance-green-companies-emerging-markets)  ; [Interview for the Sustainable Finance Research Forum of the EU Joint Research Centre](https://webcast.ec.europa.eu/sfrf-interview-series-ade-crescenzio-elepers)  
 <font size="2"> Presented at CEBRA International Finance annual meeting, Banque de France Financing Climate Transition in EMDEs, Sciences Po workshop on green finance, Bordeaux School of Economics seminar, the European Commission Virtual COP28 platform, the Joint Research Centre of the European Commission, the G20 International Financial Architecture Working Group, and the G7 Working Group on Climate Change Mitigation </font>  
