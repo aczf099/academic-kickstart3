@@ -10,13 +10,15 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 weight: 120
 ---
+
+<p align="center"><span style=color:DodgerBlue>** INTERNATIONAL FINANCE **</span></p>
+
+**Fragmentation in global FDI and portfolio flows? The perspective from immediate and ultimate exposures**  
+Joint with: P. Iberlucea Flores and K. Dicmane (OECD)  
   
-<p align="center"><span style=color:DodgerBlue>** POLITICAL ECONOMY OF FINANCE **</span></p>
-  
-**Fueling or Leaning: Introducing a New Dataset of Credit Policies**  
-**Data**: [Credit Policy Dataset](https://github.com/aczf099/academic-kickstart3/blob/c42f497d79d0d9955e8debcaae920433d84e00f8/content/home/Credit_pol_panel_public.xlsx)  
-<font size="2">   Presented at the MPSA Annual Meeting (2021) </font>   
-  
+**Use and timing of capital controls: 10 Stylized facts from a new granular dataset on episodic changes**
+Presented at Bank of Mexico 6th Biennial Conference on Financial Stability  
+    
 <p align="center"><span style=color:DodgerBlue>** GREEN FINANCE **</span></p>
 
 **What Drives Capital to Green Companies in Emerging Markets: Evidence from Investment Funds**  
