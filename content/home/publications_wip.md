@@ -13,11 +13,17 @@ weight: 120
 
 <p align="center"><span style=color:DodgerBlue>** INTERNATIONAL FINANCE **</span></p>
 
-**Fragmentation in global FDI and portfolio flows? The perspective from immediate and ultimate exposures**  
-Joint with: P. Iberlucea Flores and K. Dicmane (OECD)  
+**Fragmentation in global capital flows? Evidence from a novel methodology to estimate ultimate bilateral FDI exposures**  
+Joint with: P. Iberlucea Flores (OECD)  
+<font size="2"> Presented at the 2026 External Statistics Conference of the Irving Fisher Committee on Central Bank Statistics </font>  
+
+**Disentangling the Wires: the Capital Flow Channel of Monetary Policy Spillovers to Emerging Markets**
+Joint with: M. Bussiere (Banque de France) & V.Youssef (Central Bank of Egypt)  
+<font size="2"> Presented at the 2026 Joint BIS, BoE, ECB and IMF Spillover Conference; PIIE seminar; Fed seminar </font>  
+
   
 **Use and timing of capital controls: 10 Stylized facts from a new granular dataset on episodic changes**
-Presented at Bank of Mexico 6th Biennial Conference on Financial Stability  
+<font size="2"> Presented at Bank of Mexico 6th Biennial Conference on Financial Stability  </font> 
     
 <p align="center"><span style=color:DodgerBlue>** GREEN FINANCE **</span></p>
 
