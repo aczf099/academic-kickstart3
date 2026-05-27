@@ -17,7 +17,7 @@ weight: 120
 Joint with: P. Iberlucea Flores (OECD)  
 <font size="2"> Presented at the 2026 External Statistics Conference of the Irving Fisher Committee on Central Bank Statistics </font>  
 
-**Disentangling the Wires: the Capital Flow Channel of Monetary Policy Spillovers to Emerging Markets**
+**Disentangling the Wires: the Capital Flow Channel of Monetary Policy Spillovers to Emerging Markets**  
 Joint with: M. Bussiere (Banque de France) & V.Youssef (Central Bank of Egypt)  
 <font size="2"> Presented at the 2026 Joint BIS, BoE, ECB and IMF Spillover Conference; PIIE seminar; Fed seminar </font>  
 
